@@ -15,7 +15,7 @@ class PostFactory extends Factory
      * @return array<string, mixed>
      */
 
-// ESTRUCTURA DE DATOS PARA LOS SEEDERS Y LAS MIGRACIONES
+// ESTRUCTURA DE DATOS falsos PARA LOS SEEDERS Y LAS MIGRACIONES
 
 
     public function definition()
